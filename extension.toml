@@ -1,0 +1,7 @@
+id = "mosel"
+name = "Mosel"
+version = "0.0.2"
+schema_version = 1
+authors = ["Pierre Nel <hello@pierre.io>"]
+description = "A port of Domeee's Mosel neovim theme."
+repository = "https://github.com/pierrenel/mosel"
